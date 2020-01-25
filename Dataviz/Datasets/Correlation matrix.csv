@@ -1,0 +1,5 @@
+;Incasso;Sentiment;Magnitudo;%Tweets positivi
+Incasso;1;0,245454545;-0,090909091;0,1
+Sentiment;0,245454545;1;0,218181818;0,836363636
+Magnitudo;-0,090909091;0,218181818;1;-0,054545455
+%Tweets positivi;0,1;0,836363636;-0,054545455;1
