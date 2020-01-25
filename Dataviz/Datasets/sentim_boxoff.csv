@@ -1,4 +1,4 @@
-;Title;Boxoffice;Genres;sentiment_Avg;magnitude_Avg;sentiment_pos_percentage;sentiment_neg_percentage;Tweets;magnitude_std;score_std
+id;Title;Boxoffice;Genres;sentiment_Avg;magnitude_Avg;sentiment_pos_percentage;sentiment_neg_percentage;Tweets;magnitude_std;score_std
 0;Bombshell;10264578;Biografia, Dramma;0,181540244;0,409908223;0,842105263;0,157894737;266;0,3361;0,3338
 1;Cats;11648480;Commedia, Dramma, Per famiglie, Fantasy, Musical;0,14977504;0,39371297;0,840659341;0,159340659;532;0,3315;0,3111
 2;Star Wars: The Rise of Skywalker;203859471;Azione, Avventura, Fantasy, Sci-fi;0,17143867;0,472759034;0,825832698;0,174167302;7866;0,2894;0,3128
