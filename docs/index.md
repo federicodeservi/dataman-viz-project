@@ -17,4 +17,10 @@ iframe{ justify-content: center;}
            <iframe seamless frameborder="0" src="https://public.tableau.com/views/SentimentAnalysisSankey/SentimentSankey?:showVizHome=no&:embed=true" width = '1300' height = '1000'  scrolling='yes' style="text-align:center"></iframe>
       </div>
  </div>
+ 
+ div style = 'display:flex; position:absolute; right:0; left:0; '>
+      <div id = 'sankey' style = 'margin:auto;'> 
+           <iframe seamless frameborder="0" src="https://public.tableau.com/views/SentimentAnalysisSankey/SentimentSankey?:showVizHome=no&:embed=true" width = '1300' height = '1000'  scrolling='yes' style="text-align:center"></iframe>
+      </div>
+ </div>
 ---
