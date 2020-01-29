@@ -7,28 +7,29 @@ La prima visualizzazione è costituita da un Sankey diagram, il quale mette in r
 
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
       <div id = 'sankey1' style = 'margin:auto;'> 
-           <iframe seamless frameborder="0" src="https://public.tableau.com/views/SentimentAnalysisSankey/SentimentSankey?:showVizHome=no&:embed=true" width = '1300' height = '1000'  scrolling='yes' style="text-align:center" align="center"></iframe>
+           <iframe seamless frameborder="0" src="https://public.tableau.com/views/SentimentAnalysisSankey/SentimentSankey?:showVizHome=no&:embed=true" width = '1300' height = '1050'  scrolling='no' style="text-align:center" align="center"></iframe>
       </div>
  </div>
- 
-<div style="height: 1000px;"> </div>
+<div style="height: 1050px;"> </div>
 
 La seconda visualizzazione....
 
 
 <div style = 'display:flex; position:absolute; right:0; left:0; '>
       <div id = 'sankey2' style = 'margin:auto;'> 
-           <iframe seamless frameborder="0" src=" https://public.tableau.com/views/Box-officebubblechart/Boxoffice?:showVizHome=no&:embed=true" width = '1300' height = '1000'  scrolling='yes' style="text-align:center"></iframe>
+           <iframe seamless frameborder="0" src=" https://public.tableau.com/views/Box-officebubblechart/Boxoffice?:showVizHome=no&:embed=true" width = '1300' height = '1000'  scrolling='no' style="text-align:center"></iframe>
       </div>
  </div>
- 
+ <div style="height: 1000px;"> </div>
+
  La terza visualizzazione....
  
  <div style = 'display:flex; position:absolute; right:0; left:0; '>
       <div id = 'sankey3' style = 'margin:auto;'> 
-           <iframe seamless frameborder="0" src="https://public.tableau.com/shared/QTTY92TXW?:showVizHome=no&:embed=true" width = '1300' height = '1000'  scrolling='yes' style="text-align:center"></iframe>
+           <iframe seamless frameborder="0" src="https://public.tableau.com/shared/QTTY92TXW?:showVizHome=no&:embed=true" width = '1300' height = '1000'  scrolling='no' style="text-align:center"></iframe>
       </div>
  </div>
+<div style="height: 1000px;"> </div>
 
 ---
 
