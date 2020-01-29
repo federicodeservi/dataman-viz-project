@@ -134,11 +134,11 @@ Per valutare la correlazione tra gli attributi qualitativi presenti nel question
 
 <br/><br/>
 DA CAMBIARE
-Nel triangolo superiore sono presenti dei corrplot, che si differenziano tra loro per forma e colore. Questi ultimi indicano la forza della correlazione, che varia da -1 a 1. Più la forma è simile ad un ellisse, maggiore è la correlazione, che a seconda dell’inclinazione verso l’alto o il basso può essere rispettivamente positiva o negativa. Più la forma è simile ad un cerchio, invece, più tale attributo si avvicina allo 0. Il blu corrisponde a valori positivi mentre il rosso a quelli negativi; in questo caso tutte le correlazioni presenti sono positive. Si può notare in tutte e tre le infografiche la coppia di attributi "Chiara" e "Intuitiva" risultano avere la correlazione più alta, mediamente pari all'87%.
+Così come nella terza visualizzazione, per mostrarla si è scelto di rappresentare una matrice di correlazione, in cui per ogni coppia di variabili si mostra un cerchio, la cui area e il cui colore varia in base al valore dell'indice di correlazione. Quanto più è grande il cerchio, tanto maggiore è il valore dell'indice. Il colore varia da verde (correlazione positiva) a rosso (correlazione negativa). Il valore, selezionabile tramite click con il mouse o un suo passaggio, viene inoltre visualizzato in una piccola finestra.
+In questo caso tutte le correlazioni presenti sono positive. Si può notare in tutte e tre le infografiche che "Chiarezza" e "Inuitività" risultano essere la coppia con l'indice di correlazione più elevato.
 
 ## TEST UTENTE
-Per ottenere un feedback sull’efficienza generale e sull'usabilità del report è stato chiesto a 16 utenti di svolgere 3 task differenti (uno per ogni infografica), registrando la correttezza delle risposte e il tempo impiegato, misurandolo in secondi. Si è scelto in questo caso di focalizzare l'attenzione sulla tipologia di utente che si interagisce con l'infografica; per questo motivo è stato chiesto agli utenti di auto-definirsi "esperti" o "non esperti" di dati in base al campo di studio/lavoro. Questo ha permesso di verificare se ci fossero differenze significative tra i due gruppi.
-Per valutare la differenza dei tempi di risposta e la relativa distribuzione, è stato ritenuto opportuno l’utilizzo di violin plot riportati di seguito.
+DA SCRIVERE
 <br/><br/><br/><br/>
 
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
@@ -163,9 +163,7 @@ Per valutare la differenza dei tempi di risposta e la relativa distribuzione, è
 <div style="height: 1050px;"> </div>
 
 <br/><br/>
-È possibile notare che, per tutti e tre i task, i tempi di risposta di chi si ritiene non esperto di dati, sono maggiori rispetto a chi, invece, si ritiene esperto.
-In particolare, la differenza tra i tempi di esecuzione medi tra gli utenti esperti e non risulta essere di 23,7 secondi per il task 1, di 11,6 secondi per il task 2 e di 17,1 secondi per il task riferito all'ultima infografica.
-Per valutare la significatività di queste quantità sono stati effettuati test t da cui è emerso, appunto, che tale differenza tra i tempi medi di esecuzione è statisticamente significativa per tutti e tre i task. (p value Task1= 0.000174, p-value Task2= 8.324e-05, p-value Task3 = 0.00359)
+DA SCRIVERE
 <br/><br/>
 <br/><br/>
 
