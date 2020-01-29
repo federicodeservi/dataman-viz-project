@@ -172,6 +172,8 @@ In particolare, il tempo minimo di esecuzione dei non esperti è pari a circa 4 
 <br/><br/>
 <br/><br/>
 <br/><br/>
+Software utilizzato per la creazione delle visualizzazioni:<a href="https://www.tableau.com/it-it/products/desktop?utm_campaign_id=2017049&utm_campaign=Prospecting-PROD-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_language=IT&utm_country=SOEUR&kw=tableau%20desktop&adgroup=CTX-Brand-Tableau+Desktop-IT-E&adused=316985576826&matchtype=e&placement=&gclid=CjwKCAiA98TxBRBtEiwAVRLqu17DLmYks8Lfb1UHQaZedZ97nNa7Q4m3ZpMWJXNWWMX3QtkjzCo-yRoC7uIQAvD_BwE&gclsrc=aw.ds">Tableau Desktop</a>
+<br/><br/>
 <br/><br/>
 
 
