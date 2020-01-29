@@ -104,14 +104,14 @@ Per valutare la correlazione tra gli attributi qualitativi presenti nel question
 
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
       <div id = 'sankey1' style = 'margin:auto;'> 
-           <iframe seamless frameborder="0" src="https://public.tableau.com/views/Scatterecorrelazione_questionario_fig2/Correlazione?:showVizHome=no&:embed=true" width = '1300' height = '1050'  scrolling='no' style="text-align:center" align="center"></iframe>
+           <iframe seamless frameborder="0" src="https://public.tableau.com/views/Scatterecorrelazione_questionario__fig2/Correlazione?:showVizHome=no&:embed=true" width = '1300' height = '1050'  scrolling='no' style="text-align:center" align="center"></iframe>
       </div>
  </div>
 <div style="height: 1050px;"> </div>
 
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
       <div id = 'sankey1' style = 'margin:auto;'> 
-           <iframe seamless frameborder="0" src="https://public.tableau.com/views/Scatterecorrelazione_questionario_fig3/Correlazione?:showVizHome=no&:embed=true" width = '1300' height = '1050'  scrolling='no' style="text-align:center" align="center"></iframe>
+           <iframe seamless frameborder="0" src="https://public.tableau.com/views/Scatterecorrelazione_questionario__fig3/Correlazione?:showVizHome=no&:embed=true" width = '1300' height = '1050'  scrolling='no' style="text-align:center" align="center"></iframe>
       </div>
  </div>
 <div style="height: 1050px;"> </div>
