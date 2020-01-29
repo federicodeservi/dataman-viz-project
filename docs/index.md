@@ -69,12 +69,10 @@ Per fare una verifica della qualità delle nostre visualizzazioni sono stati eff
       * uno user test.
 
 ## VALUTAZIONE QUALITATIVA DELLE EURISTICHE
-Sono state intervistati tre utenti a cui è stato chiesto di interagire con le infografiche per qualche minuto e di commentare ad alta voce i diversi grafici.
-Grazie a questo tipo di attività è stato possibile individuare i seguenti problemi delle infografiche:
-
-Non risultava immediato rimuovere i numerosi filtri presenti nella prima infografica. Per questo motivo è stata inserita, tramite il pulsante freccia "back" la possibilità di tornare allo stato iniziale della visualizzazione, nonostante queste non fosse una funzione automatica di PowerBI, come spiegato precedentemente.
-Sempre nella prima infografica, selezionando una stazione di partenza, vengono automaticamente visualizzate le stazioni di arrivo (capolinea) dei treni in questione. In alcuni casi, invece, gli utenti pensavano di poter vedere tutte le fermate intermedie del treno. Non è stato possibile, tuttavia, assecondare questi suggerimenti per vincoli legati allo schema relazionale dei dati stessi.
-Nella flow map, oltre alle tratte, erano state inizialmente inserite anche le stazioni, colorate in base al ritardo medio accumulato, ma risultava troppo pesante come visualizzazione quindi si è scelto di rimuoverle.
+Si sono intervistati 4 utenti, a cui è stato chiesto di interagire e di giocare con le infografiche da noi sviluppate e di "pensare" ad alta voce. In questo modo è stato possibile individuare le seguenti criticità:
+      * La terza visualizzazione non risultava chiara e comprensibile agli utenti che non avevano familiarità con tale concetto statistico. Per questo motivo si è scelto di inserire una "nuvoletta" che fornisse definizione ed esempi al passare del mouse.
+      * 2
+      * 3
 
 ## QUESTIONARIO PSICOMETRICO
 Per poter valutare la nostra prima visualizzazione abbiamo sottoposto il questionario psicometrico Cabitza-Locoro a 32 utenti. E' stato chiesto loro di valutare le tre infografiche principali attraverso una scala da 1 (Pochissimo) a 6 (Moltissimo) relativamente agli attributi qualitativi “Utilità”, “Intuitività”, “Chiarezza”, “Informatività”, “Bellezza” e “Valutazione Generale”.
