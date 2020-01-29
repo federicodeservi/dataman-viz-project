@@ -166,7 +166,9 @@ Per la rappresentazione dei risultati sono stati sfruttati nuovamente dei violin
 <div style="height: 1050px;"> </div>
 
 <br/><br/>
-DA SCRIVERE
+Per quanto riguarda il primo e il terzo task, i violin plot confermano quello che è più intuitivo aspettarsi: i tempi di risposta alle domande sono minori per i cosiddetti “esperti”. 
+Ma il risultato più curioso è stato riscontrato nell’analisi dello svolgimento del secondo task, ovvero quello riferito al bubble chart: i non esperti hanno impiegato mediamente meno tempo a rispondere rispetto agli esperti. 
+In particolare, il tempo minimo di esecuzione dei non esperti è pari a circa 4 secondi e il massimo è 30 secondi, contro un tempo di risposta degli esperti che va dai 10 secondi di minimo a più di 50 secondi di massimo.
 <br/><br/>
 <br/><br/>
 <br/><br/>
