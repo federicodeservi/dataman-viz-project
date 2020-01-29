@@ -1,9 +1,13 @@
 # Introduzione
 
-Metti intro del paper
+L’industria cinematografica più importante al mondo ha sede a Los Angeles, dove Hollywood vanta un giro di affari di miliardi di dollari.
+Nell’era della grande rivoluzione digitale e sociale che stiamo vivendo, si può dire che l’ascesa dei social network impatti anche su un business così colossale? 
+
+Abbiamo tentato di rispondere a questa domanda svolgendo una sentiment analysis sui tweet raccolti in tempo reale il giorno seguente all’uscita nelle sale di alcuni film statunitensi e verificando se ci fosse una correlazione tra questi risultati e gli incassi al botteghino ottenuti dagli stessi film nei sette giorni successivi.
 
 <br/><br/>
-La prima visualizzazione è costituita da un Sankey diagram, il quale mette in relazione la quantità di tweets raccolti il giorno successivo all'uscita di ciascun film, con la relativa quantità di tweets riconosciuti come positivi o negativi dal servizio di Sentiment Analysis di Google. 
+La prima visualizzazione è costituita da un Sankey diagram, il quale mette in relazione la quantità di tweets raccolti il giorno successivo all'uscita di ciascun film, mettendoli in relazione con la relativa quantità di tweets riconosciuti come positivi o negativi dal servizio di Sentiment Analysis di Google. 
+Il grafico è interattivo e permette all'utente di evidenziare i risultati di un particolare film, cliccando sul titolo o sull'immagine di copertina relativa.
 <br/><br/>
 <br/><br/>
 
