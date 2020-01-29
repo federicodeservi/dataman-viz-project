@@ -2,6 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+.page-header {
+  color: #ffff;
+  background-color: #1b0b36;
+  background-image: url(https://raw.githubusercontent.com/federicodeservi/dataman-viz-project/master/docs/movie_header.jpg);
+  background-size: cover;
+}
 
 body {
   align-items: center !important;
