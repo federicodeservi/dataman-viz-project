@@ -64,15 +64,15 @@ Per data cleaning si intende il processo di preparazione dei dati su cui si dovr
 
 # Questionari
 Per fare una verifica della qualità delle nostre visualizzazioni sono stati effettuati tre tipologie di assessment: 
-      * una valutazione qualitativa delle euristiche
-      * un questionario psicometrico 
-      * uno user test.
+      *una valutazione qualitativa delle euristiche
+      *un questionario psicometrico 
+      *uno user test.
 
 ## VALUTAZIONE QUALITATIVA DELLE EURISTICHE
 Si sono intervistati 4 utenti, a cui è stato chiesto di interagire e di giocare con le infografiche da noi sviluppate e di "pensare" ad alta voce. In questo modo è stato possibile individuare le seguenti criticità:
-      * La terza visualizzazione non risultava chiara e comprensibile agli utenti che non avevano familiarità con tale concetto statistico. Per questo motivo si è scelto di inserire una "nuvoletta" che fornisse definizione ed esempi al passare del mouse.
-      * 2
-      * 3
+      *La terza visualizzazione non risultava chiara e comprensibile agli utenti che non avevano familiarità con tale concetto statistico. Per questo motivo si è scelto di inserire una "nuvoletta" che fornisse definizione ed esempi al passare del mouse.
+      *2
+      *3
 
 ## QUESTIONARIO PSICOMETRICO
 Per poter valutare la nostra prima visualizzazione abbiamo sottoposto il questionario psicometrico Cabitza-Locoro a 32 utenti. E' stato chiesto loro di valutare le tre infografiche principali attraverso una scala da 1 (Pochissimo) a 6 (Moltissimo) relativamente agli attributi qualitativi “Utilità”, “Intuitività”, “Chiarezza”, “Informatività”, “Bellezza” e “Valutazione Generale”.
