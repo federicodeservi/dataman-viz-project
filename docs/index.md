@@ -69,9 +69,9 @@ Per fare una verifica della qualità delle nostre visualizzazioni sono stati eff
 
 ## VALUTAZIONE QUALITATIVA DELLE EURISTICHE
 Si sono intervistati 4 utenti, a cui è stato chiesto di interagire e di giocare con le infografiche da noi sviluppate e di "pensare" ad alta voce. In questo modo è stato possibile individuare le seguenti criticità:
-* La terza visualizzazione non risultava chiara e comprensibile agli utenti che non avevano familiarità con tale concetto statistico. Per questo motivo si è scelto di inserire una "nuvoletta" che fornisse definizione ed esempi al passare del mouse.
-* 2
-* 3
+* La terza visualizzazione non risultava chiara e comprensibile agli utenti che non avevano familiarità con il concetto statistico di correlazione. Per questo motivo si è scelto di inserire una "nuvoletta" che fornisse definizione ed esempi al passare del mouse.
+* Riguardo alla prima visualizzazione (sankey diagram) è stato puntualizzato da alcuni osservatori che sarebbe stato più “naturale” vedere prima le curve che indicano i tweet positivi e dopo quelli negativi: sarebbe dunque stato meglio, secondo la loro sensibilità posizionare le curve verdi (tweet positivi) nella parte alta di grafico e quelle rosse (tweet negativi) nella parte inferiore.
+* Nella seconda visualizzazione è stata riscontrata una criticità riguardo al colore dei cerchi raffiguranti le differenze di incasso di ciascun film. In particolare, i cerchi più piccoli, dovendo rappresentare valori di incasso molto vicini tra loro, presentano anche sfumature di giallo la cui differenza è quasi impercettibile.Si è cercato di porre rimedio il più possibile creando una palette personalizzata di colori su Tableau.
 
 ## QUESTIONARIO PSICOMETRICO
 Per poter valutare le nostre visualizzazioni abbiamo sottoposto un questionario psicometrico secondo il modello Cabitza-Locoro a 60 utenti. Ad essi stato chiesto di valutare ciascuna delle nostre tre visualizzazioni tramite una scala da 1 (Poco) a 6 (Molto) i seguenti attributi qualitativi:
