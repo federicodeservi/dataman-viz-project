@@ -5,11 +5,12 @@ Nell’era della grande rivoluzione digitale e sociale che stiamo vivendo, si pu
 
 Abbiamo tentato di rispondere a questa domanda svolgendo una sentiment analysis sui tweet raccolti in tempo reale il giorno seguente all’uscita nelle sale di alcuni film statunitensi e verificando se ci fosse una correlazione tra questi risultati e gli incassi al botteghino ottenuti dagli stessi film nei sette giorni successivi.
 
-<br/><br/>
+---
+
 La prima visualizzazione è costituita da un Sankey diagram, il quale mette in relazione la quantità di tweets raccolti il giorno successivo all'uscita di ciascun film, mettendoli in relazione con la relativa quantità di tweets riconosciuti come positivi o negativi dal servizio di Sentiment Analysis di Google. 
 Il grafico è interattivo e permette all'utente di evidenziare i risultati di un particolare film, cliccando sul titolo o sull'immagine di copertina relativa.
 <br/><br/>
-<br/><br/>
+
 
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
       <div id = 'sankey1' style = 'margin:auto;'> 
@@ -21,7 +22,7 @@ Il grafico è interattivo e permette all'utente di evidenziare i risultati di un
 <br/><br/>
 La seconda visualizzazione consiste in un diagramma a bolle, in cui ogni bolla varia in colore e dimensione in base al risultato ottenuto al botteghino nei 7 giorni successivi alla relativa raccolta dei tweets. Quanto più una bolla è grande e di colore tendente al rosso, tanto maggiore sarà l'incasso di quel film. Cliccando sulle stesse si possono visualizzare la copertina, l'incasso in milioni di dollari e i generi a cui appartiene il film (secondo il catalogo di IMDb).
 <br/><br/>
-<br/><br/>
+
 
 <div style = 'display:flex; position:absolute; right:0; left:0; '>
       <div id = 'sankey2' style = 'margin:auto;'> 
@@ -37,8 +38,6 @@ In statistica, una correlazione è una relazione tra due variabili tale che a ci
 Per mostrarla si è scelto di rappresentarla in una matrice di correlazione, in cui per ogni coppia di variabili si mostra un cerchio, la cui area e il cui colore varia in base al valore dell'indice di correlazione. Quanto più è grande il cerchio, tanto maggiore è il valore dell'indice. Il colore varia da verde (correlazione positiva) a rosso (correlazione negativa). Il valore, selezionabile tramite click con il mouse, viene inoltre stampato a lato della matrice stessa.
 
 Poichè non tutti gli utenti erano familiari con il concetto statistico in questione, abbiamo preferito aggiungere una breve spiegazione munita di esempi nella nuvolettà a destra del titolo: "Che cos'è la correlazione?"
-
-<br/><br/>
 <br/><br/>
 
  <div style = 'display:flex; position:absolute; right:0; left:0; '>
@@ -48,10 +47,7 @@ Poichè non tutti gli utenti erano familiari con il concetto statistico in quest
  </div>
 <div style="height: 1000px;"> </div>
 
-<br/><br/>
-
 ---
-
 
 # NOTE METODOLOGICHE
 
