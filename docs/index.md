@@ -19,7 +19,7 @@ Il grafico è interattivo e permette all'utente di evidenziare i risultati di un
 <div style="height: 1050px;"> </div>
 
 <br/><br/>
-La seconda visualizzazione pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru....
+La seconda visualizzazione consiste in un diagramma a bolle, in cui ogni bolla varia in colore e dimensione in base al risultato ottenuto al botteghino nei 7 giorni successivi alla relativa raccolta dei tweets. Quanto più una bolla è grande e di colore tendente al rosso, tanto maggiore sarà l'incasso di quel film. Cliccando sulle stesse si possono visualizzare la copertina, l'incasso in milioni di dollari e i generi a cui appartiene il film (secondo il catalogo di IMDb).
 <br/><br/>
 <br/><br/>
 
@@ -31,7 +31,13 @@ La seconda visualizzazione pirupirupiru pirupirupiru pirupirupiru pirupirupiru p
  <div style="height: 1050px;"> </div>
 
 <br/><br/>
-La terza visualizzazione pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru pirupirupiru....
+La terza visualizzazione infine prescinde dal film (usa i dati originari per calcolare una matrice di correlazione secondo Spearman) per mostrare se e quanto l'incasso, la magnitudo media dei tweet e il sentiment medio degli stessi presentino correlazione tra di essi.
+In statistica, una correlazione è una relazione tra due variabili tale che a ciascun valore della prima corrisponda un valore della seconda, seguendo una certa regolarità.
+
+Per mostrarla si è scelto di rappresentarla in una matrice di correlazione, in cui per ogni coppia di variabili si mostra un cerchio, la cui area e il cui colore varia in base al valore dell'indice di correlazione. Quanto più è grande il cerchio, tanto maggiore è il valore dell'indice. Il colore varia da verde (correlazione positiva) a rosso (correlazione negativa). Il valore, selezionabile tramite click con il mouse, viene inoltre stampato a lato della matrice stessa.
+
+Poichè non tutti gli utenti erano familiari con il concetto statistico in questione, abbiamo preferito aggiungere una breve spiegazione munita di esempi nella nuvolettà a destra del titolo: "Che cos'è la correlazione?"
+
 <br/><br/>
 <br/><br/>
 
