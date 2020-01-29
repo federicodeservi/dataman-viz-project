@@ -3,3 +3,8 @@
 
 @import "{{ site.theme }}";
 
+body {
+  text-align: center !important;
+  align-items: center !important;
+  margin: 0 auto !important;
+}
