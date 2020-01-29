@@ -6,6 +6,6 @@
 body {
   margin: auto;
 }
-
-body [align] { text-align: center; }
+<style> iframe{ justify-content: center;} </style>
+body [align] { text-align: center; justify-content: center;}
 
