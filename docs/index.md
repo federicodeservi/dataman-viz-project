@@ -133,7 +133,7 @@ Per valutare la correlazione tra gli attributi qualitativi presenti nel question
 <div style="height: 1050px;"> </div>
 
 Così come nella terza visualizzazione, per mostrarla si è scelto di rappresentare una matrice di correlazione, in cui per ogni coppia di variabili si mostra un cerchio, la cui area e il cui colore varia in base al valore dell'indice di correlazione. Quanto più è grande il cerchio, tanto maggiore è il valore dell'indice. Il colore varia da verde (correlazione positiva) a rosso (correlazione negativa). Il valore, selezionabile tramite click con il mouse o un suo passaggio, viene inoltre visualizzato in una piccola finestra.
-In questo caso tutte le correlazioni presenti sono positive. Si può notare in tutte e tre le infografiche che "Chiarezza" e "Inuitività" risultano essere la coppia con l'indice di correlazione più elevato.
+In questo caso tutte le correlazioni presenti sono positive. Si può notare in tutte e tre le infografiche che "Chiarezza" e "Intuitività" risultano essere la coppia con l'indice di correlazione più elevato.
 
 ## TEST UTENTE
 DA SCRIVERE
