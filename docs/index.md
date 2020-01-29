@@ -47,6 +47,9 @@ Poichè non tutti gli utenti erano familiari con il concetto statistico in quest
  </div>
 <div style="height: 1000px;"> </div>
 
+## CONCLUSIONE
+Conclusione 
+
 ---
 
 # NOTE METODOLOGICHE
@@ -71,8 +74,14 @@ Si sono intervistati 4 utenti, a cui è stato chiesto di interagire e di giocare
 * 3
 
 ## QUESTIONARIO PSICOMETRICO
-Per poter valutare la nostra prima visualizzazione abbiamo sottoposto il questionario psicometrico Cabitza-Locoro a 32 utenti. E' stato chiesto loro di valutare le tre infografiche principali attraverso una scala da 1 (Pochissimo) a 6 (Moltissimo) relativamente agli attributi qualitativi “Utilità”, “Intuitività”, “Chiarezza”, “Informatività”, “Bellezza” e “Valutazione Generale”.
-<br/><br/><br/><br/>
+Per poter valutare le nostre visualizzazioni abbiamo sottoposto un questionario psicometrico secondo il modello Cabitza-Locoro a 60 utenti. Ad essi stato chiesto di valutare ciascuna delle nostre tre visualizzazioni tramite una scala da 1 (Poco) a 6 (Molto) i seguenti attributi qualitativi:
+* Chiarezza
+* Utilità
+* Bellezza
+* Intuitività
+* Informatività
+* Totale
+<br/><br/>
 
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
       <div id = 'sankey1' style = 'margin:auto;'> 
@@ -96,11 +105,11 @@ Per poter valutare la nostra prima visualizzazione abbiamo sottoposto il questio
 <div style="height: 1050px;"> </div>
 
 <br/><br/>
-Analizzando i barchart, il risultato più rilevante è che, in generale, la prima infografica è stata di più difficile comprensione. Risulta esserci una percentuale significativa di risposte negative, soprattutto relativamente alla "Chiarezza" e "Intuitività" dell'infografica.
-Per quanto riguarda le altre due infografiche, invece, si nota una significativa maggioranza di giudizi positivi sia rispetto alle risposte neutre che negative.
+Analizzando i risultati, il risultato più rilevante è che, in generale, la terza infografica è stata di più difficile comprensione. Questo è un dato che ci attendevamo, vista la difficoltà del concetto statistico per coloro che non ne sono stati precedentemente esposti. Ci riteniamo comunque soddisfatti di un tale risultato nonostante la difficoltà del concetto visualizzato.
+Per quanto riguarda le altre due infografiche, invece, si nota una significativa maggioranza di giudizi positivi, specialmente per la seconda infografica.
 
-Per valutare la correlazione tra gli attributi qualitativi presenti nel questionario abbiamo ritenuto opportuno l’utilizzo di un correlogramma.
-<br/><br/><br/><br/>
+Per valutare la correlazione tra gli attributi qualitativi presenti nel questionario abbiamo ritenuto opportuno l’utilizzo di una matrice di correlazione, visualizzata come nella nostra infografica numero 3, a cui abbiamo affiancato uno scatter plot. Quest'ultimo rappresenta, per ciascuna valutazione, il valore complessivo assegnato dall'utente e il valore calcolato a partire dalle sue risposte, tramite il procedimento spiegatoci dal professor Cabitza. 
+<br/><br/>
 
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
       <div id = 'sankey1' style = 'margin:auto;'> 
