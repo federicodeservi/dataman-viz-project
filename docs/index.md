@@ -149,3 +149,6 @@ Per valutare la differenza dei tempi di risposta e la relativa distribuzione, è
 È possibile notare che, per tutti e tre i task, i tempi di risposta di chi si ritiene non esperto di dati, sono maggiori rispetto a chi, invece, si ritiene esperto.
 In particolare, la differenza tra i tempi di esecuzione medi tra gli utenti esperti e non risulta essere di 23,7 secondi per il task 1, di 11,6 secondi per il task 2 e di 17,1 secondi per il task riferito all'ultima infografica.
 Per valutare la significatività di queste quantità sono stati effettuati test t da cui è emerso, appunto, che tale differenza tra i tempi medi di esecuzione è statisticamente significativa per tutti e tre i task. (p value Task1= 0.000174, p-value Task2= 8.324e-05, p-value Task3 = 0.00359)
+<br/><br/>
+<br/><br/>
+
