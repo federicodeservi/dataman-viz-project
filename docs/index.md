@@ -11,8 +11,10 @@ La prima visualizzazione è costituita da un Sankey diagram, il quale mette in r
       </div>
  </div>
  
-<div>La seconda visualizzazione....</div>
-<p> ciao </p>
+<div style="height: 1000px;"> </div>
+
+La seconda visualizzazione....
+
 
 <div style = 'display:flex; position:absolute; right:0; left:0; '>
       <div id = 'sankey2' style = 'margin:auto;'> 
