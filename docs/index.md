@@ -1,4 +1,4 @@
-# Introduzione
+# INTRODUZIONE
 
 L’industria cinematografica più importante al mondo ha sede a Los Angeles, dove Hollywood vanta un giro di affari di miliardi di dollari.
 Nell’era della grande rivoluzione digitale e sociale che stiamo vivendo, si può dire che l’ascesa dei social network impatti anche su un business così colossale? 
@@ -53,7 +53,7 @@ Poichè non tutti gli utenti erano familiari con il concetto statistico in quest
 ---
 
 
-# Note metodologiche
+# NOTE METODOLOGICHE
 
 ## DATI UTILIZZATI
 Queste visualizzazioni sono state sviluppate a partire dai dati raccolti tramite il processo accuratamente spiegato in <a href="LINK REPORT">questo report</a>, usando un modulo python appositamente creato per lo scopo e un'architettura in grado di raccogliere i dati in tempo reale da Twitter.
@@ -62,7 +62,7 @@ I dati sono stati poi convertiti in formato csv per essere utilizzati con il sof
 ## PULIZIA DEI DATI
 Per data cleaning si intende il processo di preparazione dei dati su cui si dovranno condurre le analisi. I tweet sono stati puliti eliminando i metadati, conctractions, URL e e-mail, righe vuote, tabs e punteggiatura ed applicando i processi di stemming e lemmatization. Lo stemming serve a ridurre le parole alle loro “radici”, mentre la lemmatization è il processo di riduzione di una forma flessa di una parola alla sua forma canonica, detta lemma (o forma base). Questo al fine di ottenere risultati più affidabili e non sfalsati da retweet o tweet pubblicitari. 
 
-# Questionari
+# QUALITY ASSESSMENTS
 Per fare una verifica della qualità delle nostre visualizzazioni sono stati effettuati tre tipologie di assessment: 
 * una valutazione qualitativa delle euristiche
 * un questionario psicometrico 
