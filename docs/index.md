@@ -48,7 +48,7 @@ Poichè non tutti gli utenti erano familiari con il concetto statistico in quest
 <div style="height: 1000px;"> </div>
 
 ## CONCLUSIONE
-Conclusione 
+DA SCRIVERE 
 
 ---
 
@@ -133,6 +133,7 @@ Per valutare la correlazione tra gli attributi qualitativi presenti nel question
 <div style="height: 1050px;"> </div>
 
 <br/><br/>
+DA CAMBIARE
 Nel triangolo superiore sono presenti dei corrplot, che si differenziano tra loro per forma e colore. Questi ultimi indicano la forza della correlazione, che varia da -1 a 1. Più la forma è simile ad un ellisse, maggiore è la correlazione, che a seconda dell’inclinazione verso l’alto o il basso può essere rispettivamente positiva o negativa. Più la forma è simile ad un cerchio, invece, più tale attributo si avvicina allo 0. Il blu corrisponde a valori positivi mentre il rosso a quelli negativi; in questo caso tutte le correlazioni presenti sono positive. Si può notare in tutte e tre le infografiche la coppia di attributi "Chiara" e "Intuitiva" risultano avere la correlazione più alta, mediamente pari all'87%.
 
 ## TEST UTENTE
