@@ -38,7 +38,7 @@
   h6 {
     margin-top: 2rem;
     margin-bottom: 1rem;
-    font-weight: normal;
+    font-weight: bold;
     color: #1b0b36;
   }
 }
@@ -53,7 +53,39 @@
   border-width: 1px;
   border-radius: 0.3rem;
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+
+  &:hover {
+    color: #ffff;
+    text-decoration: none;
+    background-color: #bd1e13;
+    border-color: #ffff;
   }
+
+  + .btn {
+    margin-left: 1rem;
+  }
+
+  @include large {
+    padding: 0.75rem 1rem;
+  }
+
+  @include medium {
+    padding: 0.6rem 0.9rem;
+    font-size: 0.9rem;
+  }
+
+  @include small {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 0.9rem;
+
+    + .btn {
+      margin-top: 1rem;
+      margin-left: 0;
+    }
+  }
+}
 
 body {
   align-items: center !important;
