@@ -56,14 +56,17 @@ Poichè non tutti gli utenti erano familiari con il concetto statistico in quest
 # Note metodologiche
 
 ## DATI UTILIZZATI
-Questo report è stato sviluppato a partire da dati raccolti per tutto il mese di Maggio dalle API ufficiali di Trenitalia. La particolare natura e il complesso meccanismo di questi strumenti ha reso necessario l'impiego di un'architettura in grado di raccogliere i dati in tempo reale. Per approfondire si faccia riferimento a questo documento.
-I dati sono stati inizialmente esportati dal database in formato json e successivamente convertiti in formato csv compatibile con il software utilizzato (PowerBI).
+Queste visualizzazioni sono state sviluppate a partire dai dati raccolti tramite il processo accuratamente spiegato in <a href="LINK REPORT">questo report</a>, usando un modulo python appositamente creato per lo scopo e un'architettura in grado di raccogliere i dati in tempo reale da Twitter.
+I dati sono stati poi convertiti in formato csv per essere utilizzati con il software usato (Tableau Desktop).
 
-## PREPROCESSING
-Durante una prima fase di preprocessing i dati grezzi sono stati "puliti" pirupirupiru
+## PULIZIA DEI DATI
+Per data cleaning si intende il processo di preparazione dei dati su cui si dovranno condurre le analisi. I tweet sono stati puliti eliminando i metadati, conctractions, URL e e-mail, righe vuote, tabs e punteggiatura ed applicando i processi di stemming e lemmatization. Lo stemming serve a ridurre le parole alle loro “radici”, mentre la lemmatization è il processo di riduzione di una forma flessa di una parola alla sua forma canonica, detta lemma (o forma base). Questo al fine di ottenere risultati più affidabili e non sfalsati da retweet o tweet pubblicitari. 
 
 # Questionari
-Per fare un check sulla qualità delle nostre infografiche sono stati effettuati tre tipologie di assessment: la valutazione qualitativa delle euristiche, il questionario psicometrico e lo user test.
+Per fare una verifica della qualità delle nostre visualizzazioni sono stati effettuati tre tipologie di assessment: 
+      * una valutazione qualitativa delle euristiche
+      * un questionario psicometrico 
+      * uno user test.
 
 ## VALUTAZIONE QUALITATIVA DELLE EURISTICHE
 Sono state intervistati tre utenti a cui è stato chiesto di interagire con le infografiche per qualche minuto e di commentare ad alta voce i diversi grafici.
