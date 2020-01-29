@@ -136,8 +136,11 @@ Così come nella terza visualizzazione, per mostrarla si è scelto di rappresent
 In questo caso tutte le correlazioni presenti sono positive. Si può notare in tutte e tre le infografiche che "Chiarezza" e "Intuitività" risultano essere la coppia con l'indice di correlazione più elevato.
 
 ## TEST UTENTE
-DA SCRIVERE
-<br/><br/><br/><br/>
+Al fine di avere una prova concreta di quanto il nostro lavoro risultasse chiaro e comprensibile agli occhi di utenti esterni, abbiamo chiesto a  12 persone di svolgere 3 task differenti (uno per ogni infografica). 
+Nello specifico, i task richiedevano di rispondere a 3 domande di media difficoltà.
+Abbiamo volutamente selezionato 6 persone che si potessero considerare esperte e altre 6 che invece non lo fossero. Con il termine “esperto” si è inteso chiunque avesse familiarità con i concetti statistici di base tra cui, in particolare, il concetto di correlazione, essendo stato protagonista delle nostre analisi.
+Abbiamo poi registrato, per ogni utente, la correttezza o meno delle risposte date e il tempo (in secondi) impiegato per rispondere a ogni domanda.
+Per la rappresentazione dei risultati sono stati sfruttati nuovamente dei violin plot, uno per ogni task, riportanti di seguito.<br/><br/>
 
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
       <div id = 'sankey1' style = 'margin:auto;'> 
