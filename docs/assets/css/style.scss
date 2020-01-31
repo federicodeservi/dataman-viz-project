@@ -113,24 +113,10 @@ body {
   margin: 0 auto !important;
 }
 
-iframe{
+iframe, img{
 display:block !important;
 margin:auto !important;
 align-items: center !important;
+aspect-ratio: attr(width) / attr(height) !important;
 }
 
-.iframe-container {
-  overflow: hidden;
-  padding-top: 80.76%%;
-  position: relative;
-}
- 
-.iframe-container iframe {
-   border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;
-}
- 
