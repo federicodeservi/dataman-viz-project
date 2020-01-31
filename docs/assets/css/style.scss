@@ -7,6 +7,11 @@
   background-color: #1b0b36;
   background-image: url(https://raw.githubusercontent.com/federicodeservi/dataman-viz-project/master/docs/movie_header.jpg);
   background-size: cover;
+  background-repeat:no-repeat;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-position:center;
 }
 
 .project-tagline {
