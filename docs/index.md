@@ -16,7 +16,7 @@ PIRU
 
 
 <div style="--aspect-ratio: 130/105;">
-  <iframe seamless src="https://public.tableau.com/views/SentimentAnalysisSankey/SentimentSankey?:showVizHome=no&:embed=true" width = '1300' height = '1050'  scrolling='no' style="text-align:center" align="center"></iframe>
+  <iframe seamless src="https://public.tableau.com/views/SentimentAnalysisSankey/SentimentSankey?:showVizHome=no&:embed=true" scrolling='no' style="text-align:center" align="center"></iframe>
 </div>
 
 <br/><br/>
