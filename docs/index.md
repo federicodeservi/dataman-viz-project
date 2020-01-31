@@ -28,14 +28,16 @@ Il grafico è interattivo e permette all'utente di evidenziare i risultati di un
 La seconda visualizzazione consiste in un diagramma a bolle, in cui ogni bolla varia in colore e dimensione in base al risultato ottenuto al botteghino nei 7 giorni successivi alla relativa raccolta dei tweets. Quanto più una bolla è grande e di colore tendente al rosso, tanto maggiore sarà l'incasso di quel film. Cliccando sulle stesse si possono visualizzare la copertina, l'incasso in milioni di dollari e i generi a cui appartiene il film (secondo il catalogo di IMDb).
 <br/><br/>
 
-
-<div style = 'display:flex; position:absolute; right:0; left:0; '>
-      <div id = 'sankey2' style = 'margin:auto;'> 
-           <iframe seamless frameborder="0" src=" https://public.tableau.com/views/Box-officebubblechart/Boxoffice?:showVizHome=no&:embed=true" width = '1300' height = '1050'  scrolling='no' style="text-align:center"></iframe>
+<div style = 'display:flex; position:absolute; right:0; left:0;'>
+      <div id="div-desktop" style = 'margin:auto;'> 
+           <iframe seamless frameborder="0" src="https://public.tableau.com/views/Box-officebubblechart/Boxoffice?:showVizHome=no&:embed=true" width = '1300' height = '1050'  scrolling='no' style="text-align:center" align="center"></iframe>
       </div>
  </div>
- <div style="height: 1050px;"> </div>
-
+ <div id="div-desktop" style="height: 1050px;"> </div>
+ <div id="div-mobile" style="text-align: center">
+            <a href="https://public.tableau.com/views/Box-officebubblechart/Boxoffice?" class="btn">Visualizza su Tableau Public</a>
+      </div>
+      
 <br/><br/>
 La terza visualizzazione infine prescinde dal film (usa i dati originari per calcolare una matrice di correlazione secondo Spearman) per mostrare se e quanto l'incasso, la magnitudo media dei tweet e il sentiment medio degli stessi presentino correlazione tra di essi.
 In statistica, una correlazione è una relazione tra due variabili tale che a ciascun valore della prima corrisponda un valore della seconda, seguendo una certa regolarità.
@@ -45,12 +47,15 @@ Per mostrarla si è scelto di rappresentarla in una matrice di correlazione, in 
 Poichè non tutti gli utenti erano familiari con il concetto statistico in questione, abbiamo preferito aggiungere una breve spiegazione munita di esempi nella nuvolettà a destra del titolo: "Che cos'è la correlazione?"
 <br/><br/>
 
- <div style = 'display:flex; position:absolute; right:0; left:0; '>
-      <div id = 'sankey3' style = 'margin:auto;'> 
-           <iframe seamless frameborder="0" src="https://public.tableau.com/shared/QTTY92TXW?:showVizHome=no&:embed=true" width = '1300' height = '1000'  scrolling='no' style="text-align:center"></iframe>
+<div style = 'display:flex; position:absolute; right:0; left:0;'>
+      <div id="div-desktop" style = 'margin:auto;'> 
+           <iframe seamless frameborder="0" src="https://public.tableau.com/shared/QTTY92TXW?:showVizHome=no&:embed=true" width = '1300' height = '1050'  scrolling='no' style="text-align:center" align="center"></iframe>
       </div>
  </div>
-<div style="height: 1000px;"> </div>
+ <div id="div-desktop" style="height: 1050px;"> </div>
+ <div id="div-mobile" style="text-align: center">
+            <a href="https://public.tableau.com/shared/QTTY92TXW?" class="btn">Visualizza su Tableau Public</a>
+      </div>
 
 ## CONCLUSIONE
 DA SCRIVERE 
@@ -89,25 +94,33 @@ Per poter valutare le nostre visualizzazioni abbiamo sottoposto un questionario 
 <br/><br/>
 
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
-      <div id = 'sankey1' style = 'margin:auto;'> 
+      <div id="div-desktop" style = 'margin:auto;'> 
            <iframe seamless frameborder="0" src="https://public.tableau.com/views/violin_questionario_fig1/Template?:showVizHome=no&:embed=true" width = '1300' height = '1050'  scrolling='no' style="text-align:center" align="center"></iframe>
       </div>
  </div>
-<div style="height: 1050px;"> </div>
+ <div id="div-desktop" style="height: 1050px;"> </div>
+ <div id="div-mobile" style="text-align: center">
+            <a href="https://public.tableau.com/views/violin_questionario_fig1/Template?" class="btn">Visualizza su Tableau Public</a>
+      </div>
 
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
-      <div id = 'sankey1' style = 'margin:auto;'> 
+      <div id="div-desktop" style = 'margin:auto;'> 
            <iframe seamless frameborder="0" src="https://public.tableau.com/views/violin_questionario_fig2/Template?:showVizHome=no&:embed=true" width = '1300' height = '1050'  scrolling='no' style="text-align:center" align="center"></iframe>
       </div>
  </div>
-<div style="height: 1050px;"> </div>
-
+ <div id="div-desktop" style="height: 1050px;"> </div>
+ <div id="div-mobile" style="text-align: center">
+            <a href="https://public.tableau.com/views/violin_questionario_fig2/Template?" class="btn">Visualizza su Tableau Public</a>
+      </div>
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
-      <div id = 'sankey1' style = 'margin:auto;'> 
+      <div id="div-desktop" style = 'margin:auto;'> 
            <iframe seamless frameborder="0" src="https://public.tableau.com/views/violin_questionario_fig3/Template?:showVizHome=no&:embed=true" width = '1300' height = '1050'  scrolling='no' style="text-align:center" align="center"></iframe>
       </div>
  </div>
-<div style="height: 1050px;"> </div>
+ <div id="div-desktop" style="height: 1050px;"> </div>
+ <div id="div-mobile" style="text-align: center">
+            <a href="https://public.tableau.com/views/violin_questionario_fig3/Template?" class="btn">Visualizza su Tableau Public</a>
+      </div>
 
 <br/><br/>
 Analizzando i risultati, il risultato più rilevante è che, in generale, la terza infografica è stata di più difficile comprensione. Questo è un dato che ci attendevamo, vista la difficoltà del concetto statistico per coloro che non ne sono stati precedentemente esposti. Ci riteniamo comunque soddisfatti di un tale risultato nonostante la difficoltà del concetto visualizzato.
@@ -117,25 +130,32 @@ Per valutare la correlazione tra gli attributi qualitativi presenti nel question
 <br/><br/>
 
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
-      <div id = 'sankey1' style = 'margin:auto;'> 
+      <div id="div-desktop" style = 'margin:auto;'> 
            <iframe seamless frameborder="0" src="https://public.tableau.com/views/Scatterecorrelazione_questionario_fig1/Correlazione?:showVizHome=no&:embed=true" width = '1300' height = '1050'  scrolling='no' style="text-align:center" align="center"></iframe>
       </div>
  </div>
-<div style="height: 1050px;"> </div>
-
+ <div id="div-desktop" style="height: 1050px;"> </div>
+ <div id="div-mobile" style="text-align: center">
+            <a href="https://public.tableau.com/views/Scatterecorrelazione_questionario_fig1/Correlazione?" class="btn">Visualizza su Tableau Public</a>
+      </div>
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
-      <div id = 'sankey1' style = 'margin:auto;'> 
+      <div id="div-desktop" style = 'margin:auto;'> 
            <iframe seamless frameborder="0" src="https://public.tableau.com/views/Scatterecorrelazione_questionario__fig2/Correlazione?:showVizHome=no&:embed=true" width = '1300' height = '1050'  scrolling='no' style="text-align:center" align="center"></iframe>
       </div>
  </div>
-<div style="height: 1050px;"> </div>
-
+ <div id="div-desktop" style="height: 1050px;"> </div>
+ <div id="div-mobile" style="text-align: center">
+            <a href="https://public.tableau.com/views/Scatterecorrelazione_questionario__fig2/Correlazione?" class="btn">Visualizza su Tableau Public</a>
+      </div>
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
-      <div id = 'sankey1' style = 'margin:auto;'> 
+      <div id="div-desktop" style = 'margin:auto;'> 
            <iframe seamless frameborder="0" src="https://public.tableau.com/views/Scatterecorrelazione_questionario__fig3/Correlazione?:showVizHome=no&:embed=true" width = '1300' height = '1050'  scrolling='no' style="text-align:center" align="center"></iframe>
       </div>
  </div>
-<div style="height: 1050px;"> </div>
+ <div id="div-desktop" style="height: 1050px;"> </div>
+ <div id="div-mobile" style="text-align: center">
+            <a href="https://public.tableau.com/views/Scatterecorrelazione_questionario__fig3/Correlazione?" class="btn">Visualizza su Tableau Public</a>
+      </div>
 
 Così come nella terza visualizzazione, per mostrarla si è scelto di rappresentare una matrice di correlazione, in cui per ogni coppia di variabili si mostra un cerchio, la cui area e il cui colore varia in base al valore dell'indice di correlazione. Quanto più è grande il cerchio, tanto maggiore è il valore dell'indice. Il colore varia da verde (correlazione positiva) a rosso (correlazione negativa). Il valore, selezionabile tramite click con il mouse o un suo passaggio, viene inoltre visualizzato in una piccola finestra.
 In questo caso tutte le correlazioni presenti sono positive. Si può notare in tutte e tre le infografiche che "Chiarezza" e "Intuitività" risultano essere la coppia con l'indice di correlazione più elevato.
@@ -148,25 +168,32 @@ Abbiamo poi registrato, per ogni utente, la correttezza o meno delle risposte da
 Per la rappresentazione dei risultati sono stati sfruttati nuovamente dei violin plot, uno per ogni task, riportanti di seguito.<br/><br/>
 
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
-      <div id = 'sankey1' style = 'margin:auto;'> 
+      <div id="div-desktop" style = 'margin:auto;'> 
            <iframe seamless frameborder="0" src="https://public.tableau.com/views/violin_task_fig1/Template?:showVizHome=no&:embed=true" width = '1300' height = '1050'  scrolling='no' style="text-align:center" align="center"></iframe>
       </div>
  </div>
-<div style="height: 1050px;"> </div>
-
+ <div id="div-desktop" style="height: 1050px;"> </div>
+ <div id="div-mobile" style="text-align: center">
+            <a href="https://public.tableau.com/views/violin_task_fig1/Template?" class="btn">Visualizza su Tableau Public</a>
+      </div>
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
-      <div id = 'sankey1' style = 'margin:auto;'> 
+      <div id="div-desktop" style = 'margin:auto;'> 
            <iframe seamless frameborder="0" src="https://public.tableau.com/views/violin_task_fig2/Template?:showVizHome=no&:embed=true" width = '1300' height = '1050'  scrolling='no' style="text-align:center" align="center"></iframe>
       </div>
  </div>
-<div style="height: 1050px;"> </div>
-
+ <div id="div-desktop" style="height: 1050px;"> </div>
+ <div id="div-mobile" style="text-align: center">
+            <a href="https://public.tableau.com/views/violin_task_fig2/Template?" class="btn">Visualizza su Tableau Public</a>
+      </div>
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
-      <div id = 'sankey1' style = 'margin:auto;'> 
+      <div id="div-desktop" style = 'margin:auto;'> 
            <iframe seamless frameborder="0" src="https://public.tableau.com/views/violin_task_fig3/Template?:showVizHome=no&:embed=true" width = '1300' height = '1050'  scrolling='no' style="text-align:center" align="center"></iframe>
       </div>
  </div>
-<div style="height: 1050px;"> </div>
+ <div id="div-desktop" style="height: 1050px;"> </div>
+ <div id="div-mobile" style="text-align: center">
+            <a href="https://public.tableau.com/views/violin_task_fig3/Template?" class="btn">Visualizza su Tableau Public</a>
+      </div>
 
 <br/><br/>
 Per quanto riguarda il primo e il terzo task, i violin plot confermano quello che è più intuitivo aspettarsi: i tempi di risposta alle domande sono minori per i cosiddetti “esperti”. 
