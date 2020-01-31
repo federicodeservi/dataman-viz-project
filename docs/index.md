@@ -15,7 +15,7 @@ Il grafico è interattivo e permette all'utente di evidenziare i risultati di un
 
 
 <div class="iframe-container">
-           <iframe seamless frameborder="0" src="https://public.tableau.com/views/SentimentAnalysisSankey/SentimentSankey?:showVizHome=no&:embed=true" width = '1300' height = '1050'  scrolling='no' style="text-align:center" align="center"></iframe>
+           <iframe seamless frameborder="0" src="https://public.tableau.com/views/SentimentAnalysisSankey/SentimentSankey?:showVizHome=no&:embed=true" scrolling='no' style="text-align:center" align="center"></iframe>
 </div>
 
 <br/><br/>
