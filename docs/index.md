@@ -25,7 +25,7 @@ La seconda visualizzazione consiste in un diagramma a bolle, in cui ogni bolla v
 
 <div style = 'display:flex; position:absolute; right:0; left:0; '>
       <div id = 'sankey2' style = 'margin:auto;'> 
-           <iframe seamless frameborder="0" src=" https://public.tableau.com/views/Box-officebubblechart/Boxoffice?:showVizHome=no&:embed=true" width = '1300' height = '1050'  scrolling='no' style="text-align:center"></iframe>
+           <iframe seamless frameborder="0" src=" https://public.tableau.com/views/Box-officebubblechart/Boxoffice?:showVizHome=no&:embed=true"  scrolling='no' style="text-align:center"></iframe>
       </div>
  </div>
  <div style="height: 1050px;"> </div>
