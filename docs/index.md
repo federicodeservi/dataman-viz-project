@@ -11,7 +11,6 @@ Abbiamo tentato di rispondere a questa domanda svolgendo una sentiment analysis 
 <br/><br/>
 La prima visualizzazione è costituita da un Sankey diagram, il quale mette in relazione la quantità di tweets raccolti il giorno successivo all'uscita di ciascun film, mettendoli in relazione con la relativa quantità di tweets riconosciuti come positivi o negativi dal servizio di Sentiment Analysis di Google. 
 Il grafico è interattivo e permette all'utente di evidenziare i risultati di un particolare film, cliccando sul titolo o sull'immagine di copertina relativa.
-PIRU
 <br/><br/>
 
 
