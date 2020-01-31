@@ -21,7 +21,7 @@ Il grafico è interattivo e permette all'utente di evidenziare i risultati di un
  </div>
  <div id="div-desktop" style="height: 1050px;"> </div>
  <div id="div-mobile" style="text-align: center">
-            <a href="https://public.tableau.com/views/SentimentAnalysisSankey/SentimentSankey?" class="btn">Visualizza su Tableau Public</a>
+            <a href="https://public.tableau.com/views/SentimentAnalysisSankey/SentimentSankey?" class="btn" target="_blank">Visualizza su Tableau Public</a>
       </div>
 
 <br/><br/>
@@ -35,7 +35,7 @@ La seconda visualizzazione consiste in un diagramma a bolle, in cui ogni bolla v
  </div>
  <div id="div-desktop" style="height: 1050px;"> </div>
  <div id="div-mobile" style="text-align: center">
-            <a href="https://public.tableau.com/views/Box-officebubblechart/Boxoffice?" class="btn">Visualizza su Tableau Public</a>
+            <a href="https://public.tableau.com/views/Box-officebubblechart/Boxoffice?" class="btn" target="_blank">Visualizza su Tableau Public</a>
       </div>
       
 <br/><br/>
@@ -54,7 +54,7 @@ Poichè non tutti gli utenti erano familiari con il concetto statistico in quest
  </div>
  <div id="div-desktop" style="height: 1050px;"> </div>
  <div id="div-mobile" style="text-align: center">
-            <a href="https://public.tableau.com/shared/QTTY92TXW?" class="btn">Visualizza su Tableau Public</a>
+            <a href="https://public.tableau.com/shared/QTTY92TXW?" class="btn" target="_blank">Visualizza su Tableau Public</a>
       </div>
 
 ## CONCLUSIONE
@@ -100,7 +100,7 @@ Per poter valutare le nostre visualizzazioni abbiamo sottoposto un questionario 
  </div>
  <div id="div-desktop" style="height: 1050px;"> </div>
  <div id="div-mobile" style="text-align: center">
-            <a href="https://public.tableau.com/views/violin_questionario_fig1/Template?" class="btn">Visualizza su Tableau Public</a>
+            <a href="https://public.tableau.com/views/violin_questionario_fig1/Template?" class="btn" target="_blank">Visualizza su Tableau Public (1)</a>
       </div>
 
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
@@ -110,7 +110,7 @@ Per poter valutare le nostre visualizzazioni abbiamo sottoposto un questionario 
  </div>
  <div id="div-desktop" style="height: 1050px;"> </div>
  <div id="div-mobile" style="text-align: center">
-            <a href="https://public.tableau.com/views/violin_questionario_fig2/Template?" class="btn">Visualizza su Tableau Public</a>
+            <a href="https://public.tableau.com/views/violin_questionario_fig2/Template?" class="btn" target="_blank">Visualizza su Tableau Public (2)</a>
       </div>
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
       <div id="div-desktop" style = 'margin:auto;'> 
@@ -119,7 +119,7 @@ Per poter valutare le nostre visualizzazioni abbiamo sottoposto un questionario 
  </div>
  <div id="div-desktop" style="height: 1050px;"> </div>
  <div id="div-mobile" style="text-align: center">
-            <a href="https://public.tableau.com/views/violin_questionario_fig3/Template?" class="btn">Visualizza su Tableau Public</a>
+            <a href="https://public.tableau.com/views/violin_questionario_fig3/Template?" class="btn" target="_blank">Visualizza su Tableau Public (3)</a>
       </div>
 
 <br/><br/>
@@ -136,7 +136,7 @@ Per valutare la correlazione tra gli attributi qualitativi presenti nel question
  </div>
  <div id="div-desktop" style="height: 1050px;"> </div>
  <div id="div-mobile" style="text-align: center">
-            <a href="https://public.tableau.com/views/Scatterecorrelazione_questionario_fig1/Correlazione?" class="btn">Visualizza su Tableau Public</a>
+            <a href="https://public.tableau.com/views/Scatterecorrelazione_questionario_fig1/Correlazione?" class="btn" target="_blank">Visualizza su Tableau Public (1)</a>
       </div>
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
       <div id="div-desktop" style = 'margin:auto;'> 
@@ -145,7 +145,7 @@ Per valutare la correlazione tra gli attributi qualitativi presenti nel question
  </div>
  <div id="div-desktop" style="height: 1050px;"> </div>
  <div id="div-mobile" style="text-align: center">
-            <a href="https://public.tableau.com/views/Scatterecorrelazione_questionario__fig2/Correlazione?" class="btn">Visualizza su Tableau Public</a>
+            <a href="https://public.tableau.com/views/Scatterecorrelazione_questionario__fig2/Correlazione?" class="btn" target="_blank">Visualizza su Tableau Public (2)</a>
       </div>
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
       <div id="div-desktop" style = 'margin:auto;'> 
@@ -154,7 +154,7 @@ Per valutare la correlazione tra gli attributi qualitativi presenti nel question
  </div>
  <div id="div-desktop" style="height: 1050px;"> </div>
  <div id="div-mobile" style="text-align: center">
-            <a href="https://public.tableau.com/views/Scatterecorrelazione_questionario__fig3/Correlazione?" class="btn">Visualizza su Tableau Public</a>
+            <a href="https://public.tableau.com/views/Scatterecorrelazione_questionario__fig3/Correlazione?" class="btn" target="_blank">Visualizza su Tableau Public (3)</a>
       </div>
 
 Così come nella terza visualizzazione, per mostrarla si è scelto di rappresentare una matrice di correlazione, in cui per ogni coppia di variabili si mostra un cerchio, la cui area e il cui colore varia in base al valore dell'indice di correlazione. Quanto più è grande il cerchio, tanto maggiore è il valore dell'indice. Il colore varia da verde (correlazione positiva) a rosso (correlazione negativa). Il valore, selezionabile tramite click con il mouse o un suo passaggio, viene inoltre visualizzato in una piccola finestra.
@@ -174,7 +174,7 @@ Per la rappresentazione dei risultati sono stati sfruttati nuovamente dei violin
  </div>
  <div id="div-desktop" style="height: 1050px;"> </div>
  <div id="div-mobile" style="text-align: center">
-            <a href="https://public.tableau.com/views/violin_task_fig1/Template?" class="btn">Visualizza su Tableau Public</a>
+            <a href="https://public.tableau.com/views/violin_task_fig1/Template?" class="btn" target="_blank">Visualizza su Tableau Public (1)</a>
       </div>
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
       <div id="div-desktop" style = 'margin:auto;'> 
@@ -183,7 +183,7 @@ Per la rappresentazione dei risultati sono stati sfruttati nuovamente dei violin
  </div>
  <div id="div-desktop" style="height: 1050px;"> </div>
  <div id="div-mobile" style="text-align: center">
-            <a href="https://public.tableau.com/views/violin_task_fig2/Template?" class="btn">Visualizza su Tableau Public</a>
+            <a href="https://public.tableau.com/views/violin_task_fig2/Template?" class="btn" target="_blank">Visualizza su Tableau Public (2)</a>
       </div>
 <div style = 'display:flex; position:absolute; right:0; left:0;'>
       <div id="div-desktop" style = 'margin:auto;'> 
@@ -192,7 +192,7 @@ Per la rappresentazione dei risultati sono stati sfruttati nuovamente dei violin
  </div>
  <div id="div-desktop" style="height: 1050px;"> </div>
  <div id="div-mobile" style="text-align: center">
-            <a href="https://public.tableau.com/views/violin_task_fig3/Template?" class="btn">Visualizza su Tableau Public</a>
+            <a href="https://public.tableau.com/views/violin_task_fig3/Template?" class="btn" target="_blank">Visualizza su Tableau Public (3)</a>
       </div>
 
 <br/><br/>
