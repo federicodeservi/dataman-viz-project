@@ -14,7 +14,7 @@ Il grafico è interattivo e permette all'utente di evidenziare i risultati di un
 <br/><br/>
 
 
-<div id="div-desktop" style = 'display:flex; position:absolute; right:0; left:0;'>
+<div id="div-desktop" style = 'position:absolute; right:0; left:0;'>
       <div id = 'sankey1' style = 'margin:auto;'> 
            <iframe seamless frameborder="0" src="https://public.tableau.com/views/SentimentAnalysisSankey/SentimentSankey?:showVizHome=no&:embed=true" width = '1300' height = '1050'  scrolling='no' style="text-align:center" align="center"></iframe>
       </div>
