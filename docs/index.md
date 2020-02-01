@@ -1,4 +1,4 @@
-<br/><br/>
+
 # INTRODUZIONE
 
 L’industria cinematografica più importante al mondo ha sede a Los Angeles, dove Hollywood vanta un giro di affari di miliardi di dollari.
