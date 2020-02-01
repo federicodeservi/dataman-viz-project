@@ -58,7 +58,8 @@ Poichè non tutti gli utenti erano familiari con il concetto statistico in quest
       </div>
 
 ## CONCLUSIONE
-DA SCRIVERE 
+Come possiamo notare, tra i film inclusi nella nostra analisi vediamo una correlazione molto bassa tra  sentiment, ovvero lo score medio di ogni film, la magnitudo media e l’incasso. Tra  sentiment e incasso il valore della correlazione di Spearman è pari a 0.245 mentre tra magnitudo e incasso è pari a -0.09. 
+Pare quindi che non vi sia un così grande impatto tra l’opinione del popolo di Twitter e il successo al botteghino di un film, anche se dobbiamo sottolineare che questa conclusione si può riferire unicamente al set di pellicole prese da noi in considerazione.
 
 ---
 
