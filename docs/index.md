@@ -4,7 +4,7 @@
 L’industria cinematografica più importante al mondo ha sede a Los Angeles, dove Hollywood vanta un giro di affari di miliardi di dollari.
 Nell’era della grande rivoluzione digitale e sociale che stiamo vivendo, si può dire che l’ascesa dei social network impatti anche su un business così colossale? 
 
-Abbiamo tentato di rispondere a questa domanda svolgendo una sentiment analysis sui tweet raccolti in tempo reale il giorno seguente all’uscita nelle sale di alcuni film statunitensi e verificando se ci fosse una correlazione tra questi risultati e gli incassi al botteghino ottenuti dagli stessi film nei sette giorni successivi.
+Abbiamo tentato di rispondere a questa domanda svolgendo una sentiment analysis sui tweet raccolti il giorno seguente all’uscita nelle sale di alcuni film statunitensi e verificando se ci fosse una correlazione tra questi risultati e gli incassi al botteghino ottenuti dagli stessi nei sette giorni successivi.
 <br/><br/>
 
 ---
@@ -85,7 +85,7 @@ Si sono intervistati 4 utenti, a cui è stato chiesto di interagire e di giocare
 * Nella seconda visualizzazione è stata riscontrata una criticità riguardo al colore dei cerchi raffiguranti le differenze di incasso di ciascun film. In particolare, i cerchi più piccoli, dovendo rappresentare valori di incasso molto vicini tra loro, presentano anche sfumature di giallo la cui differenza è quasi impercettibile.Si è cercato di porre rimedio il più possibile creando una palette personalizzata di colori su Tableau.
 
 ## QUESTIONARIO PSICOMETRICO
-Per poter valutare le nostre visualizzazioni abbiamo sottoposto un questionario psicometrico secondo il modello Cabitza-Locoro a 60 utenti. Ad essi stato chiesto di valutare ciascuna delle nostre tre visualizzazioni tramite una scala da 1 (Poco) a 6 (Molto) i seguenti attributi qualitativi:
+Per poter valutare le nostre visualizzazioni abbiamo sottoposto un questionario psicometrico secondo il modello Cabitza-Locoro a 60 utenti. Ad essi è stato chiesto di valutare ciascuna delle nostre tre visualizzazioni tramite una scala da 1 (Poco) a 6 (Molto) i seguenti attributi qualitativi:
 * Chiarezza
 * Utilità
 * Bellezza
